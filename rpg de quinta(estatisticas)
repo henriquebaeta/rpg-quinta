@@ -1,0 +1,80 @@
+Sombra da Abissalidade, Moros
+
+Classe de Armadura (CA): 18
+Pontos de Vida (PV): 400 (30d12 + 150)
+Velocidade: 30 pés
+Ataques:
+Ataque de Sombra: +12 para acertar, alcance 5 pés, 25 (3d10 + 10) de dano necrótico.
+Tentáculo de Trevas: +10 para acertar, alcance 15 pés, 20 (2d10 + 10) de dano necrótico e desorienta o alvo (desvantagem em testes de ataque e salvamentos até o início do próximo turno).
+Habilidades Especiais:
+Invocação de Sombras: Uma vez por rodada, Moros pode invocar 1d4 sombras que atacam como ação bônus.
+Aura de Desolação: Todos os inimigos a até 20 pés de Moros devem fazer um teste de Salvamento de Sabedoria CD 18. Se falharem, ficam amedrontados por 1 minuto.
+Resistências: Dano necrótico, dano de sombra.
+Imunidades: Amedrontado.
+Furiosa Matriarca, Seraphina
+
+Classe de Armadura (CA): 17
+Pontos de Vida (PV): 450 (35d12 + 210)
+Velocidade: 40 pés, natação 30 pés
+Ataques:
+Ataque de Garra: +13 para acertar, alcance 5 pés, 30 (4d10 + 10) de dano cortante.
+Tempestade Marinha: +12 para acertar, alcance 30 pés, 35 (5d8 + 10) de dano elétrico e causa 1d4 rodadas de paralisia (salvamento de Destreza CD 18).
+Habilidades Especiais:
+Tempestade Violenta: Uma vez por minuto, Seraphina cria uma tempestade que cobre uma área de 20 pés de raio. Todos os inimigos na área devem fazer um teste de Salvamento de Constituição CD 18, sofrendo 40 (8d8) de dano elétrico em uma falha ou metade disso em um sucesso.
+Controle de Maré: Seraphina pode mover o terreno à sua volta, criando ondas que dificultam a movimentação (reduz a velocidade em 10 pés).
+Resistências: Dano elétrico, dano de água.
+Imunidades: Amedrontado, paralisia.
+Rei das Chamas Perdidas, Ignar
+
+Classe de Armadura (CA): 20
+Pontos de Vida (PV): 500 (40d12 + 240)
+Velocidade: 30 pés
+Ataques:
+Ataque de Espada Flamejante: +14 para acertar, alcance 5 pés, 40 (5d10 + 15) de dano cortante e 20 (5d6) de dano de fogo.
+Explosão de Fogo: +12 para acertar, alcance 30 pés, 50 (10d10) de dano de fogo em uma área de 20 pés de raio, com salvamento de Destreza CD 19 para metade.
+Habilidades Especiais:
+Chamas Eternas: Ignar está sempre envolto em chamas, causando 10 (3d6) de dano de fogo a qualquer inimigo que o ataque com um ataque corpo a corpo.
+Campo de Fogo: Uma vez por minuto, Ignar pode criar um campo de chamas ao seu redor com 10 pés de raio, causando 30 (6d6) de dano de fogo a todos os inimigos na área a cada rodada.
+Resistências: Dano de fogo.
+Imunidades: Amedrontado.
+Guardião da Ruína, Vortan
+
+Classe de Armadura (CA): 22
+Pontos de Vida (PV): 600 (45d12 + 270)
+Velocidade: 25 pés
+Ataques:
+Ataque de Machado de Pedra: +15 para acertar, alcance 10 pés, 45 (6d10 + 15) de dano cortante.
+Choque de Terra: +13 para acertar, alcance 30 pés, 40 (8d8) de dano de força e cria uma área difícil de 20 pés de raio.
+Habilidades Especiais:
+Terreno Instável: Vortan pode fazer com que o terreno à sua volta se torne instável, criando zonas de terreno difícil e dano de 20 (4d10) de dano de força em uma área de 30 pés de raio. Salvamento de Destreza CD 19 para metade do dano.
+Ataques de Área: Uma vez por rodada, Vortan pode usar um ataque de área que cria uma onda de choque que causa 35 (7d6) de dano de força em um cone de 30 pés.
+Resistências: Dano de força, dano de pedra.
+Imunidades: Paralisia, atordoamento.
+Boss Principal (Nível 80)
+Abyssal Sovereign, Nyxaris
+
+Classe de Armadura (CA): 23
+Pontos de Vida (PV): 1,000 (80d12 + 480)
+Velocidade: 30 pés
+Ataques:
+Ataque de Cristal Abissal: +18 para acertar, alcance 5 pés, 50 (7d10 + 20) de dano necrótico e causa 1d6 rodadas de confusão (salvamento de Sabedoria CD 22).
+Ruptura Dimensional: +16 para acertar, alcance 30 pés, 60 (12d8) de dano necrótico e cria uma distorção que reduz a velocidade dos inimigos em 10 pés.
+Habilidades Especiais:
+Manipulação do Espaço: Nyxaris pode criar áreas de distorção que dificultam a movimentação e reduzem a velocidade dos inimigos em 20 pés. Além disso, cria ataques dimensionais que causam 40 (8d8) de dano necrótico em um cone de 30 pés.
+Campo de Caos: Uma vez por minuto, Nyxaris pode ativar um campo de caos em um raio de 20 pés ao seu redor, causando 60 (12d6) de dano necrótico e fazendo com que os inimigos fiquem confusos por 1 minuto (salvamento de Sabedoria CD 22).
+Resistências: Dano necrótico, manipulação dimensional.
+Imunidades: Confusão, paralisia.
+Boss Final (Nível 80)
+Eldritch Deity, Aethelron
+
+Classe de Armadura (CA): 25
+Pontos de Vida (PV): 1,200 (90d12 + 540)
+Velocidade: 0 pés (flutua)
+Ataques:
+Ataque Cósmico: +20 para acertar, alcance 5 pés, 60 (8d10 + 25) de dano cósmico e 2d10 de dano psíquico.
+Catástrofe Dimensional: +18 para acertar, alcance 60 pés, 80 (16d8) de dano cósmico em uma área de 30 pés de raio, e provoca uma distorção dimensional que causa desvantagem em todos os ataques e salvamentos por 1 minuto (salvamento de Constituição CD 24).
+Habilidades Especiais:
+Manipulação da Realidade: Aethelron pode distorcer a realidade ao seu redor, criando áreas de caos que causam 50 (10d10) de dano cósmico e reduzem a movimentação dos inimigos em 20 pés.
+Destruição Cósmica: Uma vez por minuto, Aethelron realiza um ataque massivo que cobre uma área de 60 pés de raio, causando 100 (20d10) de dano cósmico e forçando os inimigos a fazer um salvamento de Sabedoria CD 24 ou ficarem atordoados por 1 minuto.
+Resistências: Dano cósmico, manipulação da realidade.
+Imunidades: Atordoamento, paralisia, confusão.
